@@ -1,0 +1,4 @@
+Chapter 1 Notes – The Machine Learning Landscape
+==================================================
+
+(Copy your notes here or replace this file with your own chapter_01_notes.txt)
