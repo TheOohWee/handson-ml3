@@ -1,1 +1,4 @@
-I am currently reading this book, and taking notes in vim. 
+### Currently taking notes in vim. 
+
+Chapter 1 ✅
+Chapter 2 ⚙️ 
